@@ -1,4 +1,4 @@
-## 👋 Hi! I'm an aspiring FullStack developer, passionate about building applications from front-end to back-end.
+## 👋 Hi! My name is Yaroslav. I'm  Fullstack developer.
 
 ## 💻 Technologies I work with:
 - **Frontend:** HTML, CSS.
