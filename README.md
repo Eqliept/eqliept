@@ -14,7 +14,7 @@ BackEnd:
 Python,
 FastAPI,
 PostgreSQL,
-MongoDB,
+MongoDB
 
 Tools & Technologies:
 Git,
