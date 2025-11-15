@@ -2,19 +2,20 @@
 I develop modern web applications, work with both frontend and backend, and enjoy clean code and clear architecture.
 I also love listening to music. I will be glad to cooperate with you! 😁
 
-🚀 Tech Stack
+🚀 Tech Stack:
+
 FrontEnd:
-JavaScript
-HTML5, CSS3
-Sass / SCSS
+JavaScript,
+HTML5, CSS3,
+Sass / SCSS,
 BEM methodology
 
 BackEnd:
-Python
-FastAPI
-PostgreSQL
-MongoDB
+Python,
+FastAPI,
+PostgreSQL,
+MongoDB,
 
 Tools & Technologies:
-Git
+Git,
 REST API
