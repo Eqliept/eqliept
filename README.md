@@ -5,7 +5,9 @@ I also love listening to music. I will be glad to cooperate with you! 😁
 🚀 Tech Stack:
 
 FrontEnd:
-TypeScript
+Next.js,
+React,
+TypeScript,
 JavaScript,
 HTML5, CSS3,
 Sass / SCSS,
