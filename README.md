@@ -17,6 +17,9 @@ Redux,
 Zustand
 
 BackEnd:
+NestJS,
+Express.js,
+Node.js,
 Python,
 FastAPI,
 PostgreSQL,
