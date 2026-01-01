@@ -12,7 +12,9 @@ JavaScript,
 HTML5, CSS3,
 Sass / SCSS,
 Tailwind CSS,
-BEM methodology
+BEM methodology,
+Redux,
+Zustand
 
 BackEnd:
 Python,
